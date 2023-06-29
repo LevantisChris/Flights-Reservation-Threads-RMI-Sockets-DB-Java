@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Client/Client.iml" filepath="$PROJECT_DIR$/Client/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Protocol/Protocol.iml" filepath="$PROJECT_DIR$/Protocol/Protocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMI_interface/RMI_interface.iml" filepath="$PROJECT_DIR$/RMI_interface/RMI_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Server_one/Server_one.iml" filepath="$PROJECT_DIR$/Server_one/Server_one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Server_two/Server_two.iml" filepath="$PROJECT_DIR$/Server_two/Server_two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/code.iml" filepath="$PROJECT_DIR$/.idea/code.iml" />
+    </modules>
+  </component>
+</project>
